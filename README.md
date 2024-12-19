@@ -19,7 +19,7 @@
 
 <!-- Stat-->
 <p align="center">
-    <a href="https://github.com/netesh5/github-readme-streak-stats">
+    <a href="https://github.com/klaw321/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nitesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Netesh5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -27,7 +27,7 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/netesh-paudel/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/netesh_paudel"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://x.com/Kamal75211"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/netesh_paudel/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
  <a href="https://www.facebook.com/nitesh.paudel.5"><img src="https://img.icons8.com/office/48/000000/facebook-new.png"></a>
 
