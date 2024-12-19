@@ -7,8 +7,8 @@
 - 🔭 Interested in Software Development, ML and Astronomy
 -  📫 How to reach me: kushalpokharel234@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Netesh5&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netesh5&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Netesh5/github-readme-stats))
+![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaw321&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaw321&theme=dark)]([https://github.com/klaw321/github-readme-stats](https://github.com/klaw321/github-readme-stats))
 
 ## 🚀 Languages and Tools:
 <p align="left">
